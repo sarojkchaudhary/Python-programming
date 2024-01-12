@@ -1,0 +1,7 @@
+print(30>20)
+print(3<1)
+print(3>2 or 4<1)
+print(3>2 and 54<1)
+print(3>2 and 3>1)
+print(not 3<1)
+print(not 4>1)
